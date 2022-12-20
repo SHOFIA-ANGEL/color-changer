@@ -1,0 +1,14 @@
+  .App{
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .border{
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+  }
+  .head{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+  }
